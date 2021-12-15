@@ -13,8 +13,8 @@ class Connexion
 
         $this->hostname= 'localhost';
         $this->dbname= 'exampdo';
-        $this->usertag= 'zeel';
-        $this->pwd= 'zeel';
+        $this->usertag= 'root';
+        $this->pwd= '';
 
     }
 
