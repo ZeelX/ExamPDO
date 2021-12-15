@@ -1,0 +1,17 @@
+{
+    "name": "hb/exam-pdo",
+    "autoload": {
+        "psr-4": {
+            "Hb\\ExamPdo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leo",
+            "email": "tareuss@enschort.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.0"
+    }
+}
